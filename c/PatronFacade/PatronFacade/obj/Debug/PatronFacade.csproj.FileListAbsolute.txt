@@ -1,0 +1,5 @@
+D:\inf328\shardev\PatronFacade\PatronFacade\obj\Debug\PatronFacade.csprojResolveAssemblyReference.cache
+D:\inf328\shardev\PatronFacade\PatronFacade\bin\Debug\PatronFacade.exe
+D:\inf328\shardev\PatronFacade\PatronFacade\bin\Debug\PatronFacade.pdb
+D:\inf328\shardev\PatronFacade\PatronFacade\obj\Debug\PatronFacade.exe
+D:\inf328\shardev\PatronFacade\PatronFacade\obj\Debug\PatronFacade.pdb

@@ -1,0 +1,7 @@
+D:\inf328\shardev\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\inf328\shardev\Calculadora\obj\Debug\Calculadora.MainForm.resources
+D:\inf328\shardev\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\inf328\shardev\Calculadora\bin\Debug\Calculadora.exe
+D:\inf328\shardev\Calculadora\bin\Debug\Calculadora.pdb
+D:\inf328\shardev\Calculadora\obj\Debug\Calculadora.exe
+D:\inf328\shardev\Calculadora\obj\Debug\Calculadora.pdb
